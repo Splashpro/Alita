@@ -1,5 +1,5 @@
 # Alita_Robot
-<a href="https://heroku.com/deploy?template=https://github.com/Splashpro/MiyukiX"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br>
+<a href="https://heroku.com/deploy?template=https://github.com/Splashpro/Alita"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br>
 
 
 <p align='center'>
